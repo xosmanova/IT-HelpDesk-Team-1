@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build files
+bin/
+obj/
+
+# User-specific files
+*.csproj.user
+
+# Sensitive configuration
+secrets.json
